@@ -9,3 +9,9 @@ The player **starts the game** with 3 lives, and if they miss the ball's rebound
 The **game is over** when;
 - all the bricks are destroyed, or when
 - the player losses all lives.
+
+
+## play
+```bash
+python -m breakout
+```
